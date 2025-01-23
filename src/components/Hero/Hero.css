@@ -64,10 +64,12 @@
   display: flex;
   align-items: center;
   gap: 30px;
+  cursor: pointer;
+  transition: 0.3s ease-in-out;
 }
 
 .hero-play p {
-    color: #fff;
-    font-size: 19px;
-    font-weight: 500;
+  color: #fff;
+  font-size: 19px;
+  font-weight: 500;
 }
