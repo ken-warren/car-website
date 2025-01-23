@@ -1,6 +1,6 @@
 {
   "name": "car-website",
-  "private": true,
+  "private": false,
   "version": "0.0.0",
   "type": "module",
   "homepage": " https://ken-warren.github.io/car-website",
